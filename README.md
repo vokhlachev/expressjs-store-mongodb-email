@@ -48,7 +48,7 @@ npm install npm@latest -g
 
 1. Clone the repo or download it into your local machine
 ```sh
-https://github.com/vokhlachev/expressjs-store-mongodb.git
+https://github.com/vokhlachev/expressjs-store-mongodb-email.git
 ```
 3. Run NPM in into project folder to get all packages and dependencies from package.json
 ```sh
